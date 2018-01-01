@@ -4,10 +4,10 @@
 
 > Original upload: http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=20076
 
-<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot0-1461000315.png" width="200">
-<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot1-1461000315.png" width="200">
-<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot2-1461000315.png" width="200">
-<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot3-1461000315.png" width="200">
+<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot0-1461000315.png" width="500">
+<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot1-1461000315.png" width="500">
+<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot2-1461000315.png" width="500">
+<img alt="Shapeless Dungeon" src="https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot3-1461000315.png" width="500">
 
 Controls: 
 Z, Q, S, D or keyboard arrows to move around. Left and right Shift to sprint 
