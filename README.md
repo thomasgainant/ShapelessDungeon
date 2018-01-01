@@ -1,9 +1,13 @@
 # ShapelessDungeon
 
-![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot0-1461000315.png)
-![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot1-1461000315.png)
-![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot2-1461000315.png)
-![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot3-1461000315.png)
+## Ludum Dare 35 game jam entry
+
+> Original upload: http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=20076
+
+![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot0-1461000315.png | width=200)
+![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot1-1461000315.png | width=200)
+![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot2-1461000315.png | width=200)
+![Shapeless Dungeon](https://github.com/thomasgainant/ShapelessDungeon/blob/master/20076-shot3-1461000315.png | width=200)
 
 Controls: 
 Z, Q, S, D or keyboard arrows to move around. Left and right Shift to sprint 
